@@ -88,3 +88,8 @@ div.section {
 	margin-right: 1em;
 }
 
+div.caption {
+	text-align:center;
+	font-size:9px;
+}
+
